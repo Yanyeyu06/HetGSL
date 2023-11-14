@@ -1,4 +1,4 @@
-# HetGSL
+# HetGSL: Self-supervised Heterogeneous Graph Structure Learning
 ## Environment Settings
 > python>=3.6 \
 > scipy==1.5.4 \
